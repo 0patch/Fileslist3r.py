@@ -1,6 +1,9 @@
 # Fileslist3r.py
 Ce script a pour but de renommer les fichiers ayant l'extension precise dans le code. Lire plus sur [mon blog](https://0patch.github.io/2017/07/01/Comment-se-proteger-contre-NotPetya/).
 
+### Usage
+https://www.youtube.com/watch?v=QWZ9phaYGqs
+
 ### Pré-requis
 Python 2.7 (De préference)
 
